@@ -1,0 +1,10 @@
+# Miscellaneous files to ignore
+.DS_Store
+*.log
+.idea/
+.vscode/
+.dart_tool/
+.packages
+.pub-cache/
+.pub-spec.yaml
+build/
